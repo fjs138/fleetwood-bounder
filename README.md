@@ -11,14 +11,15 @@ Gallery of Breaking Bad characters, using React and an API for character data re
 
 
 ## The Goal
-Lorem ipsum
+Create a visually interesting character profile gallery using an api for data retrieval.
 
 ## Technology Stack
 
 | Technology    	| Use           	  | Description     	|
 | :------------------|:-------------------| :----------------	|
-| HTML, CSS, JS 			| Languages     | 	Sass for CSS			  |
+| HTML, CSS, JS 			| Languages     | 				  |
 | React	| Front-end			  |	JavaScript library for building user interfaces            |
+|axios|http client|A library for server communications (more on this later); Axios is a Promise-based HTTP client that works in both browsers and Node.|
 
 ## Project Specifications
 
@@ -28,10 +29,11 @@ Lorem ipsum
 
 | File/Folder    	| Purpose           	  |
 | :------------------|:-------------------|
-| src/pages		 			| Main Site Pages|
-| src/components		 			| React Components    |
-| src/posts	 			| Markdown Posts (deprecated)     |
-| src/templates| Individual Blog Post Template     |
+| src/		 			| create-react-app standard structure|
+| src/components/ui/Search.js		 			| Search component    |
+|src/components/ui/Spinner.js|Loading indicator component|
+| src/components/characters/CharacterGrid.js	 			| Grid container that contains CharacterItem's     |
+| src/components/characters/CharacterItem.js| Individual character profile component     |
 
 
 
