@@ -19,7 +19,7 @@ Create a visually interesting character profile gallery using an api for data re
 | :------------------|:-------------------| :----------------	|
 | HTML, CSS, JS 			| Languages     | 				  |
 | React	| Front-end			  |	JavaScript library for building user interfaces            |
-|axios|http client|A library for server communications (more on this later); Axios is a Promise-based HTTP client that works in both browsers and Node.|
+|axios|http client|A library for server communications; Axios is a Promise-based HTTP client that works in both browsers and Node.|
 
 ## Project Specifications
 
