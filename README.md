@@ -22,7 +22,10 @@ Create a visually interesting character profile gallery using an api for data re
 |axios|http client|A library for server communications; Axios is a Promise-based HTTP client that works in both browsers and Node.|
 
 ## Project Specifications
-
+* Search Functionality
+* Display character profile components
+* Retrieve character information from an api
+* Employ a loading spinner
 
 ## Anatomy of Project
 
