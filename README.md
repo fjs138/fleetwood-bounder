@@ -1,7 +1,6 @@
 
 # Fleetwood Bounder
-Gallery of Breaking Bad characters, using React and an API for character data retrieval.
-<br>
+Gallery of Breaking Bad characters, built with React and data from an API.<br>
 
 ## Deployment
 ![demo.gif](demo.gif) <br>
